@@ -14,6 +14,7 @@ export function ScreenHeader({ title }: Props) {
 			<Heading
 				color={'gray.100'}
 				fontSize={'xl'}
+				fontFamily={'heading'}
 			>
 				{title}
 			</Heading>
